@@ -60,7 +60,7 @@ Below are some of the certifications I've earned throughout my journey in Data S
 | Certificate | Issuer | Skills | Link |
 |---------|--------|--------|------|
 | **Data Analytics - Bootcamp TripleTen** | TripleTen | Python, SQL, Tableau, Statistics, Projects | [TripleTen](https://tripleten.com) | In progress...
-| **BI with Excel: Working with PivotTables with Power Pivot** <img src="havard.jpg" width="300"/> | Alura | Business Intelligence with Excel | [See Credential](https://cursos.alura.com.br/certificate/683e5b14-14f0-4997-a4a0-bf5fcfff95f3) |
+| **BI with Excel: Working with PivotTables with Power Pivot** | Alura | Excel, Power Pivot | [See Credential](https://cursos.alura.com.br/certificate/683e5b14-14f0-4997-a4a0-bf5fcfff95f3) |
 
 
 ---
