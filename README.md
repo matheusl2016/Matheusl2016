@@ -53,13 +53,23 @@ Always learning, always improving, and always curious about how data can create 
 
 ---
 
+## 🎓 Education
+
+<div style="margin-top: 10px; margin-bottom: 10px;">
+
+- **Data Analytics Bootcamp – TripleTen** *(In progress, 2025)*  
+- **Bachelor’s in Food Engineering – University of Campinas (Unicamp)** *(Completed, 2024)*  
+
+</div>
+
+---
+
 ### 📜 Certificates
 
-Below are some of the certifications I've earned throughout my journey in Data Science and Technology:
+Below are some of the certifications I've earned throughout my journey in Data Analytics and Technology:
 
 | Certificate | Issuer | Skills | Link |
 |---------|--------|--------|------|
-| **Data Analytics - Bootcamp TripleTen** | TripleTen | Python, SQL, Tableau, Statistics, Projects | [TripleTen](https://tripleten.com) | In progress...
 | **BI with Excel: Working with PivotTables with Power Pivot** | Alura | Excel, Power Pivot | [See Credential](https://cursos.alura.com.br/certificate/683e5b14-14f0-4997-a4a0-bf5fcfff95f3) |
 
 
