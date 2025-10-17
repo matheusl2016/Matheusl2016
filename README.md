@@ -53,12 +53,17 @@ Always learning, always improving, and always curious about how data can create 
 
 ---
 
-## 🎓 Education
+### 🎓 Education
 
 <div style="margin-top: 10px; margin-bottom: 10px;">
 
 - **Data Analytics Bootcamp – TripleTen** *(In progress, 2025)*  
-- **Bachelor’s in Food Engineering – University of Campinas (UNICAMP)** *(Completed, 2024)*  
+  <img align="left" alt="TripleTen" height="30" src="https://avatars.githubusercontent.com/u/113900122?s=200&v=4">  
+
+<br/>
+
+- **Bachelor’s in Food Engineering – University of Campinas (Unicamp)** *(Completed, 2024)*  
+  <img align="left" alt="Unicamp" height="30" src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Unicamp_logo.svg">  
 
 </div>
 
