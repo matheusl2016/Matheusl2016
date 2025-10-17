@@ -78,7 +78,17 @@ Below are some of the certifications I've earned throughout my journey in Data A
 
 | Certificate | Issuer | Skills | Link |
 |---------|--------|--------|------|
+| **Power BI: Building Calculations with Dax** | Google Cloud Plataform | Power BI, DAX, Table Functions | [See Credential](https://cursos.alura.com.br/certificate/5f1991a5-4a08-4734-9249-7db3ced0d302) |
+| **Power BI: Visualizing and Analyzing Data** | Google Cloud Plataform | Power BI, Dashboard | [See Credential](https://cursos.alura.com.br/certificate/5f1991a5-4a08-4734-9249-7db3ced0d302) |
 | **BI with Excel: Working with PivotTables with Power Pivot** | Alura | Excel, Power Pivot | [See Credential](https://cursos.alura.com.br/certificate/683e5b14-14f0-4997-a4a0-bf5fcfff95f3) |
-
+| **Power BI Desktop: Performing ETL in Power Query** | Alura | Power BI, ETL, Power Query Editor | [See Credential](https://cursos.alura.com.br/certificate/0080a85e-dd19-4e68-8a8f-869866f1f39f) |
+| **Data Analysis: Calculations, Standards, and Strategies with Excel** | Alura | Excel, Statistics, Visualization | [See Credential](https://cursos.alura.com.br/certificate/1ba89566-d43e-462f-a832-dd7e6be95426) |
+| **VBA: Data Manipulation and Cleaning** | Alura | Excel, Power Pivot | [See Credential](https://cursos.alura.com.br/certificate/7f3ef38c-6852-4399-9406-1f8c0ed801b3) |
+| **Google Cloud: Implement virtual machines, scalability, and load balancing** | Alura | Google Cloud Plataform | [See Credential](https://cursos.alura.com.br/certificate/7bd72675-3e53-4767-a643-d4caa9e0e274) |
+| **Google BigQuery: Navigating the Cloud** | Alura | Google BigQuery, SQL language | [See Credential](https://cursos.alura.com.br/certificate/55d9ce34-0ed8-4abc-8175-0b7a70964160) |
+| **Microsoft SQL Server 2022: Advanced Queries** | Alura | SQL, Functions, Views, Joins, Advanced Queries | [See Credential](https://cursos.alura.com.br/certificate/7751aa1c-f372-40c0-b222-27aa30521698) |
+| **Microsoft SQL Server 2022: Handling Data** | Alura | SQL, Database modeling, Patterns, Triggers | [See Credential](https://cursos.alura.com.br/certificate/aeae1a02-7ce2-4758-b70c-7edc2f39b708) |
+| **Looker Studio: creating the first report** | Alura | Looker Studio,  | [See Credential](https://cursos.alura.com.br/certificate/db656860-5e00-4f0a-bfef-935115f1650e) |
+| **Looker Studio: data visualization** | Alura | Looker Studio, Metrics, Types, Visualization techniques  | [See Credential](https://cursos.alura.com.br/certificate/6480898d-ef58-48f8-a84e-f41cacaa3cd7) |
 
 ---
