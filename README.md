@@ -45,8 +45,6 @@ Always learning, always improving, and always curious about how data can create 
     <img align="center" alt="sap" src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
 </div><br/>
 
-### 📊 GitHub Stats
-
 ---
 
 <div>
