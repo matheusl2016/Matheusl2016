@@ -26,7 +26,7 @@ Always learning, always improving, and always curious about how data can create 
 
 ---
 
-#### 📫 Find me on LinkedIn::
+### 📫 Find me on LinkedIn::
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/in/matlourenco/)
 
