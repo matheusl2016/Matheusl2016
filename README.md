@@ -47,15 +47,6 @@ Always learning, always improving, and always curious about how data can create 
 
 ---
 
-<div>
-    <a href="https://github.com/matheusl2016">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusl2016&layout=compact&langs_count=16&theme=dracula" style="width: 500px;" />
-  </a>
-           
-</div>
-
----
-
 ### 🎓 Education
 
 <div style="margin-top: 10px; margin-bottom: 10px;">
