@@ -2,9 +2,9 @@
 # Hi there, I'm Matheus Lourenço! 
 
 ## Engineer transitioning into Data Analytics.
-### Passionate about Data Analytics, and turning data into insights. Constantly learning and exploring new technologies!  
+### Passionate about Data Analysis, and turning data into insights. Constantly learning and exploring new technologies!  
 
-Data Analyst in career transition — passionate about transforming data into strategic insights that drive business decisions. With a background in Engineering and hands-on experience in strategic reporting, interactive dashboards, and performance analysis, I’m focused on turning complex datasets into actionable insights. Currently seeking opportunities in Data Analytics or Business Intelligence, where I can combine my analytical mindset and business vision to optimize decision-making and uncover growth opportunities.
+Data Analyst in career transition — passionate about transforming data into strategic insights that drive business decisions. With a background in Engineering and hands-on experience in strategic reporting, interactive dashboards, and performance analysis, I’m focused on turning complex datasets into actionable insights. Currently seeking opportunities in Data Analysis or Business Intelligence, where I can combine my analytical mindset and business vision to optimize decision-making and uncover growth opportunities.
 
 I enjoy working with data cleaning, visualization, and KPI analysis — using tools like Python, SQL, Power BI, and Excel to tell clear, data-driven stories.
 Always learning, always improving, and always curious about how data can create real impact.
