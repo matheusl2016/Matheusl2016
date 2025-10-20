@@ -63,7 +63,7 @@ Always learning, always improving, and always curious about how data can create 
 
 ### 📜 Certificates
 
-Below are some of the certifications I've earned throughout my journey in Data Analytics and Technology:
+Below are some of the certifications I've earned throughout my journey in Data Analysis and Technology:
 
 | Certificate | Issuer | Skills | Link |
 |---------|--------|--------|------|
