@@ -79,5 +79,6 @@ Below are some of the certifications I've earned throughout my journey in Data A
 | **Microsoft SQL Server 2022: Handling Data** | Alura | SQL, Database modeling, Patterns, Triggers | [See Credential](https://cursos.alura.com.br/certificate/aeae1a02-7ce2-4758-b70c-7edc2f39b708) |
 | **Looker Studio: creating the first report** | Alura | Looker Studio,  | [See Credential](https://cursos.alura.com.br/certificate/db656860-5e00-4f0a-bfef-935115f1650e) |
 | **Looker Studio: data visualization** | Alura | Looker Studio, Metrics, Types, Visualization techniques  | [See Credential](https://cursos.alura.com.br/certificate/6480898d-ef58-48f8-a84e-f41cacaa3cd7) |
+| **Storytelling: applying communication in presentations** | Alura | Storytelling, Communication, Presentation techniques | [See Credential](https://cursos.alura.com.br/certificate/cd0eab25-af93-4e71-b810-50363470941c) |
 
 ---
