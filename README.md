@@ -8,7 +8,7 @@ Business Intelligence Analyst with strong experience in transforming complex dat
 
 Skilled in data cleaning, visualization, and performance analysis using Python, SQL, Power BI, and Excel. Passionate about bringing clarity through data, optimizing processes, and building analytical solutions that generate real business impact.
 
-### 🛠️ Technologies I use in my day
+### 🛠️ Technologies that I use in my day
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
