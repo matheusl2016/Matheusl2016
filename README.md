@@ -1,5 +1,5 @@
 
-# Hi there, I'm Matheus Lourenço! 
+# Hi, I'm Matheus Lourenço! 
 
 ## 🌐 Business Intelligence Analyst
 ### Passionate about Data Analysis, and turning data into insights. Constantly learning and exploring new technologies!  
